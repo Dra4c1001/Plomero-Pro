@@ -1,0 +1,6 @@
+{
+  "name": "PLOMERO PRO: Manual Interactivo de Hidráulica Residencial",
+  "description": "PWA y base de datos técnica con +2.600 entradas para fontanería y plomería residencial en 5 módulos, buscador inteligente, diagnóstico rápido Síntoma-Causa-Solución, calculadora de presupuestos y cotizaciones WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
